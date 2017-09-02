@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TallerQuiz</string>
+    <string name="txt_p1_1">10:49</string>
+    <string name="txt_p1_2">Sabado</string>
+    <string name="txt_p1_3">29 Agosto 2017</string>
+    <string name="txt_p2_1L">2</string>
+    <string name="txt_p2_2L">Llamadas</string>
+    <string name="txt_p2_1C">4</string>
+    <string name="txt_p2_2C">Mensajes</string>
+    <string name="txt_p2_1R">48</string>
+    <string name="txt_p2_2R">Notificaciones</string>
+    <string name="txt_p3">Estado de la bateria: 91%</string>
+</resources>
